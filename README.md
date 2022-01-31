@@ -1,2 +1,2 @@
 # Form-Validator
-Form Validation project made during the online Udemy course **Modern HTML5, CSS3, and JavaScript to build Responsive and Mobile Friendly projects**.
+Form Validation project made during the online Udemy course **JavaScript Web Projects: 20 Projects to Build Your Portfolio**.
